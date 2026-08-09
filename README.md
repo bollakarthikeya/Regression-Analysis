@@ -1,4 +1,4 @@
-# Istanbul Stock Exchange Returns Regression Analysis
+# Regression Analysis (Istanbul Stock Exchange Returns)
 
 ## Overview
 
